@@ -18,4 +18,4 @@
 
 [@Wester](https://github.com/We5ter)、[@Martin](https://github.com/martinzhou2015)、[@LCatro](https://github.com/LCatro)
 
-&copy;Sixtant Lab 2017
+&copy;Sixtant Security Lab 2017
